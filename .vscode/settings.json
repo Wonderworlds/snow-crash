@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "sstream": "c",
+        "cstdint": "c",
+        "cstddef": "c"
+    }
+}
